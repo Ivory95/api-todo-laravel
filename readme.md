@@ -1,2 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tNA9_AtFAcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
- 
+こちらで動作サンプルを再生可能です。  
+https://youtu.be/tNA9_AtFAcQ  
+SPA化したTodo達をJSONで取得できるようにしました。
